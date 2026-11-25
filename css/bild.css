@@ -29,6 +29,7 @@ img {
 
 .header-wrapper img {
     max-height: 170px;
+    max-width: 200px;
 }
 
 /* NAV */
@@ -72,6 +73,7 @@ main {
 
 .grid-container p {
     font-size: 1.1em;
+    line-height: 1.5;
 }
 
 /* FOOTER */

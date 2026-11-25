@@ -30,6 +30,7 @@ img {
 
 .header-wrapper img {
     max-height: 170px;
+    max-width: 200px;
 }
 
 /* HEADER NAV */
