@@ -25,7 +25,10 @@ img {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    padding: 15px;
+}
+
+.header-wrapper img {
+    max-height: 170px;
 }
 
 /* NAV */
@@ -46,6 +49,10 @@ nav ul li a {
 }
 
 /* MAIN */
+main {
+    line-height: 1.5;
+}
+
 .box {
     padding: 20px;
 }

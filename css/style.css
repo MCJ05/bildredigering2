@@ -7,6 +7,7 @@
 body {
     margin: 0;
     background-color: rgb(111, 111, 101);
+    line-height: 1.5;
 }
 
 header {
@@ -25,7 +26,10 @@ img {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    padding: 15px 10px;
+}
+
+.header-wrapper img {
+    max-height: 170px;
 }
 
 /* HEADER NAV */
