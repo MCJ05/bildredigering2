@@ -91,6 +91,7 @@ footer {
 
 .footer-wrapper img {
     max-height: 180px;
+    max-width: 210px;
 }
 
 .logo-footer {

@@ -122,7 +122,7 @@ nav ul li a {
 /* FOOTER */
 footer {
     background-color: rgb(94, 94, 77);
-    padding: 20px 20px;
+    padding: 5px;
 }
 
 .footer-wrapper {
@@ -134,6 +134,7 @@ footer {
 
 .footer-wrapper img {
     max-height: 180px;
+    max-width: 210px;
 }
 
 .logo-footer {
