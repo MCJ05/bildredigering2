@@ -131,6 +131,10 @@ footer {
     margin: 1rem;
 }
 
+.footer-wrapper img {
+    max-height: 180px;
+}
+
 .logo-footer {
     display: flex;
     flex-direction: column;
